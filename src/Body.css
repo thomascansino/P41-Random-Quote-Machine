@@ -60,3 +60,7 @@ span {
 .buttons:nth-child(3) {
     margin-left:auto;
 }
+
+.social-icons {
+    font-size:24px;
+}
